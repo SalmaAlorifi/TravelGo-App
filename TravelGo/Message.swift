@@ -5,7 +5,7 @@
 //  Created by Afnan on 02/04/1444 AH.
 //
 
-import SwiftUI
+/*import SwiftUI
 
 struct Message: View {
     var body: some View {
@@ -18,3 +18,4 @@ struct Message_Previews: PreviewProvider {
         Message()
     }
 }
+*/
